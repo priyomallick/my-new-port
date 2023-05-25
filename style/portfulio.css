@@ -157,3 +157,24 @@ color: #757575;
     margin-top: 50px;
     text-align: center;
 }
+.contract{
+    display: flex;
+    gap: 117px;
+    background: #FFF8F3 ;
+    padding: 130px 200px;
+}
+.contract .sec-title{
+text-align: left ;
+}
+a{
+    text-decoration: none;
+}
+.contract input[type="text"], input[type="Email"], textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 19px 30px ;
+}
+input{
+    height: 64px;
+}
