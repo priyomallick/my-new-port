@@ -179,7 +179,7 @@ input{
     height: 64px;
 }
 
-@media screen and (max-width: 625px) {
+@media screen and (max-width: 576px) {
     .skills-cont, .resume-contant{
         flex-direction: column;
         gap: 20px;
